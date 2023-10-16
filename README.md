@@ -1,5 +1,5 @@
-# Python Assignment
-Advance programming in python assignment given by Dr. Nemi Chandra Rathore
+## Python Assignment
+# Advance programming in python assignment given by Dr. Nemi Chandra Rathore
 1. Python program to convert the temperature in degree centigrade to Fahrenheit. 
 2. Python program to find the area of a triangle whose sides are given. 
 3. Python program to find the product of a set of real numbers. 
